@@ -54,3 +54,8 @@ python model3.py
 
 ---
 
+## Future work
+
+soon i'll upload the file of the agent i trained using reinforcement learning to visuliaze how the system will work and how well it has adapted and 
+responded towards its needs! 
+
